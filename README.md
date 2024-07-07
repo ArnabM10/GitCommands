@@ -1,0 +1,1 @@
+- This is a notes of git commands in one shot
